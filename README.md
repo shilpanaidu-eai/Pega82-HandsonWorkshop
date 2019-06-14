@@ -1,4 +1,4 @@
-# Pega8.2-HandsonWorkshop
+# Pega8.2-Hands on Workshop
 Welcome to the Pega 8 HandsonWorkshop by Eai Systems.
 
 Details
