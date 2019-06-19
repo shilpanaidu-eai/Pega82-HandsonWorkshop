@@ -8,6 +8,8 @@ This is a one-day classroom workshop. You are encouraged to bring your own devic
 
 
 Agenda
+
+
 9:30 AM – 10:30 AM BUSINESS PROBLEM - DESIGN THINKING SESSION
 10:30AM – 12:30PM REQUIREMENTS – PEGA DCO & APPLICATION BUILD
 
